@@ -1,2 +1,2 @@
 # ImagesInMarkdown
-![alt tag](http://url/to/img.png)
+![TeamDesign](/uml_class_model_V4.png)
